@@ -1,12 +1,12 @@
-Malaysia Export Time Series Analysis & Forecasting
+# Malaysia Export Time Series Analysis & Forecasting
 
-Overview
+## Overview
 
 This project analyses Malaysia's historical export data using time series analysis and forecasting techniques in R.
 
 The project was originally completed as part of a university group assignment for STA572. This GitHub version has been organised as a portfolio project to demonstrate my experience in statistical analysis, time series modelling, data visualisation, and forecasting.
 
-Objectives
+## Objectives
 Explore the historical pattern of Malaysia's exports
 Analyse the distribution and characteristics of the data
 Examine autocorrelation and partial autocorrelation
@@ -21,7 +21,8 @@ RStudio
 Time Series Analysis
 Statistical Modelling
 Data Visualisation
-Methodology
+
+## Methodology
 1. Exploratory Data Analysis
 
 The analysis begins with summary statistics and distribution analysis using measures such as:
@@ -85,7 +86,7 @@ Outlier detection
 
 The selected forecasting model was used to generate future export forecasts with 80% and 95% prediction intervals.
 
-Key Findings
+## Key Findings
 
 The original analysis identified an increasing trend in Malaysia's export data.
 
